@@ -14,6 +14,9 @@
 </p>
 
 
+<img alt="Night Coding" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="300px" height="300px" align="right"/>
+
+
 ## <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="45px"> Languages & Frameworks
 
 <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"><img alt="HTML" src="https://img.shields.io/badge/HTML-14354C.svg?logo=html5&logoColor=black&color=orange"></a>
@@ -27,7 +30,6 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://www.jetbrains.com/phpstorm/promo/?source=google&medium=cpc&campaign=14335686426&term=phpstorm&gclid=Cj0KCQjw37iTBhCWARIsACBt1IzM6r3okEHJXACXMEyWAskFc4hQdqaMKmD32DzV0L-Ygcs5L6UK224aAp4uEALw_wcB" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/TuGVzbywNqfOpw1VWi/giphy.gif" alt="PHPStorm" width="40" height="40"/> </a> 
 
-![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
 
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=h-fares&show_icons=true&theme=dark&locale=en&layout=compact" alt="h-fares" align=center/></p>
